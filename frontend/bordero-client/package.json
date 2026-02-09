@@ -14,7 +14,12 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "vue": "^3.5.22"
+    "@mdi/font": "^7.4.47",
+    "jspdf": "^3.0.4",
+    "pinia": "^3.0.4",
+    "vue": "^3.5.22",
+    "vue-router": "^4.6.4",
+    "vuetify": "^3.10.11"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.2",
